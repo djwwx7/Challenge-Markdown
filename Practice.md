@@ -23,3 +23,5 @@ A link to my [README](/README.md/) file.
 *This is italicized text*
 
 -----------
+
+#### Horizontal Rule
