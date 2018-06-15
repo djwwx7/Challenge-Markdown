@@ -21,4 +21,5 @@ A link to my [README](/README.md/) file.
 **This is bold text**
 
 *This is italicized text*
-------
+
+-----------
