@@ -9,8 +9,10 @@ An [image](https://images.freeimages.com/images/large-previews/1c9/maine-at-4-45
 
 #### Code Block
 
-```C#
-public static testFunction {
-  return console.writeline("Hello World");
+```C
+if(num = 0) {
+  printf("Hello World");
+} else {
+  printf("Goodbye World");
 }
 ```
