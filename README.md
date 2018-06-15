@@ -7,3 +7,10 @@ A link to my [page2](/Practice.md/).
 
 An [image](https://images.freeimages.com/images/large-previews/1c9/maine-at-4-45-am-1370871.jpg) that is located on the web!
 
+#### Code Block
+
+```C#
+public static testFunction {
+  return console.writeline("Hello World");
+}
+```
