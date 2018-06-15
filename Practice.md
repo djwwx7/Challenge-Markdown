@@ -19,3 +19,5 @@ A link to my [README](/README.md/) file.
 3. Tres
 
 **This is bold text**
+
+*This is italicized text*
