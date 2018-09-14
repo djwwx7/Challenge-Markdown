@@ -14,9 +14,9 @@ A link to my [README](/README.md/) file.
 > id sem consectetuer libero luctus adipiscing.
 
 #### Numbered List
-1. Uno
-2. Dos
-3. Tres
+1. One
+2. Two
+3. Three
 
 **This is bold text**
 
