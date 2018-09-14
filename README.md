@@ -18,9 +18,9 @@ if(num = 0) {
 ```
 
 #### Bulleted List
-* Uno
-* Dos
-* Tres
+* One
+* Two
+* Three
 
 First Header  | Second Header
 ------------- | -------------
